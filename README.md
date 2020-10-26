@@ -19,7 +19,7 @@
  5.2.- Existe la opción de gestionar un pronto pago a un proveedor, lo cual debe ser solicitado explícitamente a la jefatura de finanzas con copia a adquisiciones.
  
  
- ## Imagenes
+ ## Imágenes
 
 <img title="flujo_procesos" height="500" src="./imgs/compra.png">
 <img title="flujo_procesos_cotizacion" height="500" src="./imgs/cotizacion.png">
